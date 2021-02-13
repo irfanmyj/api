@@ -1,0 +1,21 @@
+{
+    "name": "irfanmyj/api",
+    "description": "Api Wrapping",
+    "type": "package",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "irfan muhammad yusup jajuli",
+            "email": "irfanmyj@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Irfanmyj\\Api\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
