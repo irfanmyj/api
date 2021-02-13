@@ -10,7 +10,7 @@ Created because i don't really wanna get my hands dirty coz of using the old php
 #### Example Usage :confetti_ball:
 ```php
 //use your own bpjs config
-$vclaim_conf = [
+$conf = [
     'base_url' => 'https://namadomain.com',
     'service_name' => 'api'
 ];
